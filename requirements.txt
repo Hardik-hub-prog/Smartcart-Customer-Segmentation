@@ -1,0 +1,12 @@
+Libraries used in this project:
+
+NumPy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+Unsupervised Algorithm used in this project:
+
+K-Means Algorithm
+Agglomerative Algorithm
