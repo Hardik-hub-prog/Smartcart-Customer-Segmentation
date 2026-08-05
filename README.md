@@ -47,21 +47,21 @@ Data visualization
 Label Encoding
 Feature Scaling (StandardScaler)
 
-5. Finding Optimal Clusters
+5. Dimensionality Reduction
+Principal Component Analysis (PCA)
+
+6. Finding Optimal Clusters
 Elbow Method
 Silhouette Score
 
-6. Machine Learning Algorithms
+7. Machine Learning Algorithms
 K-Means Clustering
 Agglomerative Clustering
 
-7. Dimensionality Reduction
-Principal Component Analysis (PCA)
-
-9. Visualization
+8. Visualization
 3D PCA Cluster Visualization
 
-10. Customer Profiling
+9. Customer Profiling
 Cluster Summary
 Business Insights
 
