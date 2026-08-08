@@ -31,31 +31,31 @@ The dataset contains customer demographic information, purchase history, spendin
 
 ⚙️ Project Workflow
 1. Data Preprocessing -
-Handling missing values
-Feature engineering
+Handling missing values, 
+Feature engineering and 
 Data cleaning
 
 2. Outlier Detection - 
 Identified and treated outliers to improve clustering performance
 
 3. Exploratory Data Analysis (EDA) - 
-Correlation Matrix
-Heatmap
+Correlation Matrix,
+Heatmap,
 Data visualization
 
 4. Data Transformation - 
-Label Encoding
+Label Encoding and 
 Feature Scaling (StandardScaler)
 
 5. Dimensionality Reduction - 
 Principal Component Analysis (PCA)
 
 6. Finding Optimal Clusters - 
-Elbow Method
+Elbow Method and
 Silhouette Score
 
 7. Machine Learning Algorithms - 
-K-Means Clustering
+K-Means Clustering and 
 Agglomerative Clustering
 
 8. Visualization - 
@@ -66,23 +66,13 @@ Cluster Summary
 Business Insights
 
 
-🛠️ Technologies Used
+🛠️ Technologies Used - 
 Python
 Pandas
 NumPy
 Matplotlib
 Seaborn
 Scikit-learn
-
-
-🤖 Machine Learning Techniques
-Unsupervised Learning
-K-Means Clustering
-Agglomerative Clustering
-Principal Component Analysis (PCA)
-Feature Engineering
-Data Scaling
-Cluster Evaluation
 
 
 📊 Key Results
