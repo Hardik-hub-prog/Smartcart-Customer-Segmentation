@@ -30,38 +30,38 @@ Type: E-commerce Customer Data
 The dataset contains customer demographic information, purchase history, spending behavior, and campaign responses.
 
 ⚙️ Project Workflow
-1. Data Preprocessing
+1. Data Preprocessing -
 Handling missing values
 Feature engineering
 Data cleaning
 
-2. Outlier Detection
+2. Outlier Detection - 
 Identified and treated outliers to improve clustering performance
 
-3. Exploratory Data Analysis (EDA)
+3. Exploratory Data Analysis (EDA) - 
 Correlation Matrix
 Heatmap
 Data visualization
 
-4. Data Transformation
+4. Data Transformation - 
 Label Encoding
 Feature Scaling (StandardScaler)
 
-5. Dimensionality Reduction
+5. Dimensionality Reduction - 
 Principal Component Analysis (PCA)
 
-6. Finding Optimal Clusters
+6. Finding Optimal Clusters - 
 Elbow Method
 Silhouette Score
 
-7. Machine Learning Algorithms
+7. Machine Learning Algorithms - 
 K-Means Clustering
 Agglomerative Clustering
 
-8. Visualization
+8. Visualization - 
 3D PCA Cluster Visualization
 
-9. Customer Profiling
+9. Customer Profiling - 
 Cluster Summary
 Business Insights
 
